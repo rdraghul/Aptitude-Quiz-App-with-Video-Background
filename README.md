@@ -7,10 +7,7 @@ This repository contains the source code for an Android app that lets users answ
 - **Video Background:** A looping video plays in the background to create an engaging atmosphere.
 - **Kotlin & Jetpack Compose:** The app is developed using Kotlin and Jetpack Compose, showcasing modern Android development techniques.
 
-## Screenshots
-[Add some screenshots of your app here]
-
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/aptitude-quiz-app.git
+   git clone https://github.com/rdraghul/Aptitude-Quiz-App-with-Video-Background.git

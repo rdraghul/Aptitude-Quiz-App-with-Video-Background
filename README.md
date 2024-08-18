@@ -1,2 +1,16 @@
-# Aptitude-Quiz-App-with-Video-Background
-This Android app is designed to enhance your aptitude skills by presenting a series of questions that users can answer to get a score. The unique feature of this app is the inclusion of a video playing in the background in a continuous loop, creating an engaging experience for users. Built using Android Studio with Kotlin and Jetpack Compose.
+# Aptitude Quiz App with Video Background
+
+This repository contains the source code for an Android app that lets users answer aptitude questions and receive scores. The app stands out with a dynamic video background that plays in a loop, enhancing the user experience.
+
+## Features
+- **Aptitude Questions:** Users can answer a series of aptitude questions and receive instant scores.
+- **Video Background:** A looping video plays in the background to create an engaging atmosphere.
+- **Kotlin & Jetpack Compose:** The app is developed using Kotlin and Jetpack Compose, showcasing modern Android development techniques.
+
+## Screenshots
+[Add some screenshots of your app here]
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/aptitude-quiz-app.git
